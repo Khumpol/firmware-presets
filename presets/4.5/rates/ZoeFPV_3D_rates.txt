@@ -93,4 +93,4 @@ set pitch_srate = 62
 set yaw_srate = 43
 
 # restore original rateprofile selection
-rateprofile 2
+rateprofile 2
